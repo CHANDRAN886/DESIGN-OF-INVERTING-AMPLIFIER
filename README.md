@@ -1,5 +1,6 @@
 # SIMULATION-OF-INVERTING-NON--INVERTING-AND-DIFFERENTIAL-AMPLIFIER
 NAME: CHANDRAN L
+
 REG NUMBER : 212224060049
 ## AIM: 
 To Design and simulate a inverting, non- inverting and differential amplifiers using LT-Spice.
